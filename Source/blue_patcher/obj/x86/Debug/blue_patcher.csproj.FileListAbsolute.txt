@@ -1,0 +1,10 @@
+C:\Users\Colosus\Documents\GitHub\blue_patcher\Source\blue_patcher\bin\Debug\blue_patcher.exe.config
+C:\Users\Colosus\Documents\GitHub\blue_patcher\Source\blue_patcher\bin\Debug\blue_patcher.exe
+C:\Users\Colosus\Documents\GitHub\blue_patcher\Source\blue_patcher\bin\Debug\blue_patcher.pdb
+C:\Users\Colosus\Documents\GitHub\blue_patcher\Source\blue_patcher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Colosus\Documents\GitHub\blue_patcher\Source\blue_patcher\obj\x86\Debug\blue_patcher.Interface.resources
+C:\Users\Colosus\Documents\GitHub\blue_patcher\Source\blue_patcher\obj\x86\Debug\blue_patcher.Properties.Resources.resources
+C:\Users\Colosus\Documents\GitHub\blue_patcher\Source\blue_patcher\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Colosus\Documents\GitHub\blue_patcher\Source\blue_patcher\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Colosus\Documents\GitHub\blue_patcher\Source\blue_patcher\obj\x86\Debug\blue_patcher.exe
+C:\Users\Colosus\Documents\GitHub\blue_patcher\Source\blue_patcher\obj\x86\Debug\blue_patcher.pdb
